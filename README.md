@@ -1,2 +1,2 @@
 This is my first project 
-it us a collion simulator with user input
+it is a collion simulator with user input
